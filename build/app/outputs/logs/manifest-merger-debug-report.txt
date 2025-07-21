@@ -1,13 +1,13 @@
 -- Merging decision tree log ---
 application
-INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:12:5-42:19
-INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\debug\AndroidManifest.xml
-MERGED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-48:19
-MERGED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-48:19
-MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-30:19
-MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-30:19
-MERGED from [:geolocator_android] C:\Users\durma\Videos\flutter\wheather_situation\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
-MERGED from [:geolocator_android] C:\Users\durma\Videos\flutter\wheather_situation\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:12:5-42:19
+INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\debug\AndroidManifest.xml
+MERGED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-48:19
+MERGED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-48:19
+MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-30:19
+MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-30:19
+MERGED from [:geolocator_android] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:geolocator_android] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
 MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\durma\.gradle\caches\transforms-3\5c4e8ef01f9620e80c7ade7ca4fabea8\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\durma\.gradle\caches\transforms-3\5c4e8ef01f9620e80c7ade7ca4fabea8\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:7:5-20
 MERGED from [me.carda:AndroidAwnCore:0.8.3] C:\Users\durma\.gradle\caches\transforms-3\969ae1f8333b986f0c4de74740a1817a\transformed\jetified-AndroidAwnCore-0.8.3\AndroidManifest.xml:14:5-29:19
@@ -39,25 +39,25 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\durma\.gradle\cach
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\durma\.gradle\caches\transforms-3\81504543f271dad0c8fbad691a166087\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\durma\.gradle\caches\transforms-3\81504543f271dad0c8fbad691a166087\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
-		INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\debug\AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] C:\Users\durma\.gradle\caches\transforms-3\aebefb4c0430f10a8882a44adf19271f\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 	android:name
-		INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml
 manifest
-ADDED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:1:1-51:12
-MERGED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:1:1-51:12
-INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-MERGED from [:android_intent_plus] C:\Users\durma\Videos\flutter\wheather_situation\build\android_intent_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-50:12
-MERGED from [:connectivity_plus] C:\Users\durma\Videos\flutter\wheather_situation\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-32:12
-MERGED from [:geocoding_android] C:\Users\durma\Videos\flutter\wheather_situation\build\geocoding_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:geolocator_android] C:\Users\durma\Videos\flutter\wheather_situation\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-15:12
-MERGED from [:permission_handler_android] C:\Users\durma\Videos\flutter\wheather_situation\build\permission_handler_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
-MERGED from [:shared_preferences_android] C:\Users\durma\Videos\flutter\wheather_situation\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+ADDED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:1:1-51:12
+MERGED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:1:1-51:12
+INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+MERGED from [:android_intent_plus] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\android_intent_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-50:12
+MERGED from [:connectivity_plus] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-32:12
+MERGED from [:geocoding_android] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\geocoding_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:geolocator_android] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:permission_handler_android] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\permission_handler_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_android] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\durma\.gradle\caches\transforms-3\5c4e8ef01f9620e80c7ade7ca4fabea8\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:2:1-9:12
 MERGED from [me.carda:AndroidAwnCore:0.8.3] C:\Users\durma\.gradle\caches\transforms-3\969ae1f8333b986f0c4de74740a1817a\transformed\jetified-AndroidAwnCore-0.8.3\AndroidManifest.xml:2:1-31:12
 MERGED from [androidx.preference:preference:1.2.1] C:\Users\durma\.gradle\caches\transforms-3\0e5e3d3613e209d82cc9f50ed3f9d37d\transformed\preference-1.2.1\AndroidManifest.xml:17:1-24:12
@@ -126,75 +126,75 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\durma\.gradle\ca
 MERGED from [androidx.print:print:1.0.0] C:\Users\durma\.gradle\caches\transforms-3\94837c8c4cfaf841391c88206295d653\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\durma\.gradle\caches\transforms-3\f8b242cd67dfcb6ff7f6dee2bd2d698b\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:2:1-52:12
 	package
-		INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\debug\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\debug\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:4:5-79
+ADDED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:4:5-79
 	android:name
-		ADDED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:4:22-76
+		ADDED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:4:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:5:5-81
+ADDED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:5:5-81
 	android:name
-		ADDED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:5:22-78
+		ADDED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:5:22-78
 uses-permission#android.permission.POST_NOTIFICATIONS
-ADDED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:7:5-77
-MERGED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-77
-MERGED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-77
-MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-77
-MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-77
+ADDED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:7:5-77
+MERGED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-77
+MERGED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-77
+MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-77
+MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-77
 MERGED from [me.carda:AndroidAwnCore:0.8.3] C:\Users\durma\.gradle\caches\transforms-3\969ae1f8333b986f0c4de74740a1817a\transformed\jetified-AndroidAwnCore-0.8.3\AndroidManifest.xml:9:5-77
 MERGED from [me.carda:AndroidAwnCore:0.8.3] C:\Users\durma\.gradle\caches\transforms-3\969ae1f8333b986f0c4de74740a1817a\transformed\jetified-AndroidAwnCore-0.8.3\AndroidManifest.xml:9:5-77
 	android:name
-		ADDED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:7:22-74
+		ADDED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:7:22-74
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:9:5-67
-MERGED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:9:5-67
-MERGED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:9:5-67
+ADDED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:9:5-67
 	android:name
-		ADDED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:9:22-64
+		ADDED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:9:22-64
 uses-permission#android.permission.SCHEDULE_EXACT_ALARM
-ADDED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:10:5-79
-MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-79
-MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-79
+ADDED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:10:5-79
+MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-79
+MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:10:22-76
+		ADDED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:10:22-76
 queries
-ADDED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:45:5-50:15
+ADDED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:45:5-50:15
 intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
-ADDED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:46:9-49:18
+ADDED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:46:9-49:18
 action#android.intent.action.PROCESS_TEXT
-ADDED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:47:13-73
+ADDED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:47:13-73
 	android:name
-		ADDED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:47:21-70
+		ADDED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:47:21-70
 data
-ADDED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:48:13-51
+ADDED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:48:13-51
 	android:mimeType
-		ADDED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\main\AndroidManifest.xml:48:19-48
+		ADDED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\main\AndroidManifest.xml:48:19-48
 uses-sdk
-INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\debug\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\debug\AndroidManifest.xml
-INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\debug\AndroidManifest.xml
-MERGED from [:android_intent_plus] C:\Users\durma\Videos\flutter\wheather_situation\build\android_intent_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:android_intent_plus] C:\Users\durma\Videos\flutter\wheather_situation\build\android_intent_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:connectivity_plus] C:\Users\durma\Videos\flutter\wheather_situation\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:connectivity_plus] C:\Users\durma\Videos\flutter\wheather_situation\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:geocoding_android] C:\Users\durma\Videos\flutter\wheather_situation\build\geocoding_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:geocoding_android] C:\Users\durma\Videos\flutter\wheather_situation\build\geocoding_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:geolocator_android] C:\Users\durma\Videos\flutter\wheather_situation\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:geolocator_android] C:\Users\durma\Videos\flutter\wheather_situation\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:permission_handler_android] C:\Users\durma\Videos\flutter\wheather_situation\build\permission_handler_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:permission_handler_android] C:\Users\durma\Videos\flutter\wheather_situation\build\permission_handler_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences_android] C:\Users\durma\Videos\flutter\wheather_situation\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences_android] C:\Users\durma\Videos\flutter\wheather_situation\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\debug\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\debug\AndroidManifest.xml
+MERGED from [:android_intent_plus] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\android_intent_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:android_intent_plus] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\android_intent_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geocoding_android] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\geocoding_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geocoding_android] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\geocoding_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\permission_handler_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\permission_handler_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\durma\.gradle\caches\transforms-3\5c4e8ef01f9620e80c7ade7ca4fabea8\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\durma\.gradle\caches\transforms-3\5c4e8ef01f9620e80c7ade7ca4fabea8\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:5:5-44
 MERGED from [me.carda:AndroidAwnCore:0.8.3] C:\Users\durma\.gradle\caches\transforms-3\969ae1f8333b986f0c4de74740a1817a\transformed\jetified-AndroidAwnCore-0.8.3\AndroidManifest.xml:5:5-7:41
@@ -330,141 +330,141 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\durma\.gradle\caches\transform
 MERGED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\durma\.gradle\caches\transforms-3\f8b242cd67dfcb6ff7f6dee2bd2d698b\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:7:5-9:41
 MERGED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\durma\.gradle\caches\transforms-3\f8b242cd67dfcb6ff7f6dee2bd2d698b\transformed\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\android\app\src\debug\AndroidManifest.xml
 uses-permission#android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS
-ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-89
+ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-89
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-86
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-86
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
-MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-81
-MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-81
+ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
+MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-81
+MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-78
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-78
 uses-permission#android.permission.VIBRATE
-ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-66
-MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-66
-MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-66
+ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-66
+MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-66
+MERGED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-66
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-63
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-63
 receiver#me.carda.awesome_notifications.DartNotificationActionReceiver
-ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-15:39
+ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-15:39
 	android:exported
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-36
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-36
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-89
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-89
 receiver#me.carda.awesome_notifications.DartDismissedNotificationReceiver
-ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-18:39
+ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-18:39
 	android:exported
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-36
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-36
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-92
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-92
 receiver#me.carda.awesome_notifications.DartScheduledNotificationReceiver
-ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-21:39
+ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-21:39
 	android:exported
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-36
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-36
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-92
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-92
 receiver#me.carda.awesome_notifications.DartRefreshSchedulesReceiver
-ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-36:20
+ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-36:20
 	android:enabled
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-35
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-35
 	android:exported
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-36
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-36
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-87
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-87
 intent-filter#action:name:android.app.action.SCHEDULE_EXACT_ALARM_PERMISSION_STATE_CHANGED+action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.LOCKED_BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON+category:name:android.intent.category.DEFAULT
-ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-35:29
+ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-35:29
 category#android.intent.category.DEFAULT
-ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:27:17-76
+ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:27:17-76
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:27:27-73
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:27:27-73
 action#android.intent.action.BOOT_COMPLETED
-ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:29:17-79
+ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:29:17-79
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:29:25-76
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:29:25-76
 action#android.intent.action.LOCKED_BOOT_COMPLETED
-ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:30:17-86
+ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:30:17-86
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:30:25-83
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:30:25-83
 action#android.intent.action.MY_PACKAGE_REPLACED
-ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:31:17-84
+ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:31:17-84
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:31:25-81
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:31:25-81
 action#android.intent.action.QUICKBOOT_POWERON
-ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:32:17-82
+ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:32:17-82
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:32:25-79
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:32:25-79
 action#com.htc.intent.action.QUICKBOOT_POWERON
-ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:33:17-82
+ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:33:17-82
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:33:25-79
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:33:25-79
 action#android.app.action.SCHEDULE_EXACT_ALARM_PERMISSION_STATE_CHANGED
-ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:34:17-107
+ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:34:17-107
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:34:25-104
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:34:25-104
 service#me.carda.awesome_notifications.DartBackgroundService
-ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:38:9-41:72
+ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:38:9-41:72
 	android:exported
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-37
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-37
 	android:permission
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-69
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-69
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:39:13-80
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:39:13-80
 service#me.carda.awesome_notifications.core.services.ForegroundService
-ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:42:9-47:43
+ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:42:9-47:43
 MERGED from [me.carda:AndroidAwnCore:0.8.3] C:\Users\durma\.gradle\caches\transforms-3\969ae1f8333b986f0c4de74740a1817a\transformed\jetified-AndroidAwnCore-0.8.3\AndroidManifest.xml:15:9-20:43
 MERGED from [me.carda:AndroidAwnCore:0.8.3] C:\Users\durma\.gradle\caches\transforms-3\969ae1f8333b986f0c4de74740a1817a\transformed\jetified-AndroidAwnCore-0.8.3\AndroidManifest.xml:15:9-20:43
 	android:enabled
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:44:13-35
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:44:13-35
 	android:exported
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-37
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-37
 	android:stopWithTask
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-40
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-40
 	android:foregroundServiceType
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-54
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-54
 	android:name
-		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:43:13-90
+		ADDED from [:awesome_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\awesome_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:43:13-90
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:connectivity_plus] C:\Users\durma\Videos\flutter\wheather_situation\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-79
+ADDED from [:connectivity_plus] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from [:connectivity_plus] C:\Users\durma\Videos\flutter\wheather_situation\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:7:22-76
+		ADDED from [:connectivity_plus] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\connectivity_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:7:22-76
 uses-permission#android.permission.USE_FULL_SCREEN_INTENT
-ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
+ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
 	android:name
-		ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-78
+		ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-78
 receiver#com.dexterous.flutterlocalnotifications.ActionBroadcastReceiver
-ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-16:40
+ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-16:40
 	android:exported
-		ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
+		ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
 	android:name
-		ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-91
+		ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-91
 receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
-ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-19:40
+ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-19:40
 	android:exported
-		ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-37
+		ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-37
 	android:name
-		ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-97
+		ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-97
 receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
-ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-29:20
+ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-29:20
 	android:exported
-		ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-37
+		ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-37
 	android:name
-		ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-101
+		ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-101
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
-ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-28:29
+ADDED from [:flutter_local_notifications] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-28:29
 service#com.baseflow.geolocator.GeolocatorLocationService
-ADDED from [:geolocator_android] C:\Users\durma\Videos\flutter\wheather_situation\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:56
+ADDED from [:geolocator_android] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:56
 	android:enabled
-		ADDED from [:geolocator_android] C:\Users\durma\Videos\flutter\wheather_situation\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-35
+		ADDED from [:geolocator_android] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-35
 	android:exported
-		ADDED from [:geolocator_android] C:\Users\durma\Videos\flutter\wheather_situation\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
+		ADDED from [:geolocator_android] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
 	android:foregroundServiceType
-		ADDED from [:geolocator_android] C:\Users\durma\Videos\flutter\wheather_situation\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-53
+		ADDED from [:geolocator_android] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-53
 	android:name
-		ADDED from [:geolocator_android] C:\Users\durma\Videos\flutter\wheather_situation\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-77
+		ADDED from [:geolocator_android] C:\Users\durma\Videos\flutter\wheather_situation\weather_situation\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-77
 uses-permission#android.permission.BIND_NOTIFICATION_LISTENER_SERVICE
 ADDED from [me.carda:AndroidAwnCore:0.8.3] C:\Users\durma\.gradle\caches\transforms-3\969ae1f8333b986f0c4de74740a1817a\transformed\jetified-AndroidAwnCore-0.8.3\AndroidManifest.xml:10:5-12:38
 	android:maxSdkVersion

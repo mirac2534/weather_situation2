@@ -1,0 +1,1 @@
+ C:\\Users\\durma\\Videos\\flutter\\wheather_situation\\weather_situation\\.dart_tool\\flutter_build\\36a9b460c7118e871b69b298ee41b8e4\\native_assets.yaml: 

@@ -97,6 +97,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\durma\\Videos\\flutter\\wheather_situation\\weather_situation\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,832",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "483,998"
+                    },
+                    "to": {
+                        "startLines": "5560,5658",
+                        "startColumns": "4,4",
+                        "startOffsets": "392139,398744",
+                        "endLines": "5563,5660",
+                        "endColumns": "12,12",
+                        "endOffsets": "392315,398908"
+                    }
+                },
+                {
                     "source": "C:\\Users\\durma\\.gradle\\caches\\transforms-3\\34366971f762ec7902e0f1dad6ebea10\\transformed\\fragment-1.7.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,10",
@@ -365,25 +384,6 @@
                         "startOffsets": "122868",
                         "endColumns": "53",
                         "endOffsets": "122917"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\durma\\Videos\\flutter\\wheather_situation\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "176,832",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "483,998"
-                    },
-                    "to": {
-                        "startLines": "5560,5658",
-                        "startColumns": "4,4",
-                        "startOffsets": "392139,398744",
-                        "endLines": "5563,5660",
-                        "endColumns": "12,12",
-                        "endOffsets": "392315,398908"
                     }
                 },
                 {

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "me.carda.awesome_notifications-mergeReleaseResources-42:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\durma\\.gradle\\caches\\transforms-3\\d29ed1c1ddcfd1b4b6ef3f9cb8dcdf9f\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "me.carda.awesome_notifications-merged_res-44:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\durma\\.gradle\\caches\\transforms-3\\d29ed1c1ddcfd1b4b6ef3f9cb8dcdf9f\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

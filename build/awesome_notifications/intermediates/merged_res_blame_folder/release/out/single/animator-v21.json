@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "me.carda.awesome_notifications-merged_res-44:/animator-v21/design_appbar_state_list_animator.xml",
+        "source": "me.carda.awesome_notifications-material-1.11.0-8:/animator-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "me.carda.awesome_notifications-merged_res-44:/animator-v21/m3_appbar_state_list_animator.xml",
+        "source": "me.carda.awesome_notifications-material-1.11.0-8:/animator-v21/m3_appbar_state_list_animator.xml"
+    }
+]

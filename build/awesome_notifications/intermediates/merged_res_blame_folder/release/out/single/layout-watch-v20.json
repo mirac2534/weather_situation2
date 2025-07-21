@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "me.carda.awesome_notifications-merged_res-44:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "me.carda.awesome_notifications-appcompat-1.6.1-23:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "me.carda.awesome_notifications-merged_res-44:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "me.carda.awesome_notifications-appcompat-1.6.1-23:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

@@ -167,9 +167,12 @@ class TemperatureChart extends StatelessWidget {
   String _getDayLabel(int index) {
     if (index == 0) return "Bugün";
     if (index == 1) return "Yarın";
+
+    // Haftanın günlerini Monday=1, Sunday=7 sırasına göre diz
     final dayNames = ["Pzt", "Sal", "Çar", "Per", "Cum", "Cmt", "Paz"];
     final date = DateTime.now().add(Duration(days: index));
-    return dayNames[date.weekday % 7];
+
+    return dayNames[date.weekday - 1];
   }
 
   static const _labelStyle = TextStyle(
