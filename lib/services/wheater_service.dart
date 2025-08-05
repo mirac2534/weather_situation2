@@ -6,7 +6,7 @@ import 'package:hava_durumu/models/wheather_model.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class WheaterService {
-  static const _apiKey = "apikey 4I8DBYg8ETDeJrEZwwa0Pl:3Ht4IwjahVH2H75O2ecEDa";
+  static const _apiKey = "apikey YOUR API KEY"; // each api key is individual
 
   // We check to see if the user's location is clear
   Future<String> getLocation() async {
