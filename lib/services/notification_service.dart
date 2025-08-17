@@ -31,7 +31,7 @@ class NotificationService {
 
     await _notificationsPlugin.zonedSchedule(
       0,
-      '📍 $cityName için Hava Durumu',
+      ' $cityName için Hava Durumu',
       'Bugün $durum, sıcaklık $sicaklik°C. $oneri',
       _nextNotificationTime(time),
       const NotificationDetails(
